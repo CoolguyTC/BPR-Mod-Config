@@ -1,9 +1,16 @@
 # BPR-Mod-Config
 
-A vehicle and map mod configurator for Burnout Paradise Remastered (PC)
+A vehicle and (soon-to-be) map mod configurator for Burnout Paradise Remastered (PC)
 -By CoolguyTC
 
 ---
+To-Do:
+- Create fast vehicle apply.
+- Comment.
+- Make sure error handling is complete.
+- Make it even more presentable.
+- Create map configurator.
+
 
 **Questions and Answers:**
 ---

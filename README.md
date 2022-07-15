@@ -19,7 +19,7 @@ The program will ask you to input directories for different folders when started
 
 ![image](https://user-images.githubusercontent.com/95531273/179301454-dd70cb46-6039-432e-92d3-b8ebde470c05.png)
 
->Where 'CAR NAME X' is the name of the modded car.
+>Where 'CAR NAME X' is the name of the modded car. (Car names do not have to be all-caps)
 And each individual car folder should look like this:
 
 ![image](https://user-images.githubusercontent.com/95531273/179301772-392b24e1-d631-46f5-9c9e-ce4a3d23d304.png)

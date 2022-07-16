@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleTableExt/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ConsoleTableExt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ConsoleTableExt.dll": {}
+        }
+      }
+    },
+    ".NETCoreApp,Version=v3.1/win-x86": {
+      "ConsoleTableExt/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ConsoleTableExt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ConsoleTableExt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTableExt/3.2.0": {
+      "sha512": "IhaHj6R2vSbb781aRXngan6nKRp8R5rnL2X5fL0uRW2wRiFyCIUh81T/QOih0//PjzoXMk2Uv4ayBAGDLH338A==",
+      "type": "package",
+      "path": "consoletableext/3.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "consoletableext.3.2.0.nupkg.sha512",
+        "consoletableext.nuspec",
+        "lib/net35/ConsoleTableExt.dll",
+        "lib/net46/ConsoleTableExt.dll",
+        "lib/netstandard2.0/ConsoleTableExt.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ConsoleTableExt >= 3.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Tom\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Tom\\source\\repos\\BPR Mod Manager\\BPR Mod Manager.csproj",
+      "projectName": "BPR Mod Config",
+      "projectPath": "C:\\Users\\Tom\\source\\repos\\BPR Mod Manager\\BPR Mod Manager.csproj",
+      "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tom\\source\\repos\\BPR Mod Manager\\obj\\publish\\win-x86\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "ConsoleTableExt": {
+            "target": "Package",
+            "version": "[3.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+            "version": "[3.1.26, 3.1.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x86",
+            "version": "[3.1.26, 3.1.26]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+            "version": "[3.1.26, 3.1.26]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

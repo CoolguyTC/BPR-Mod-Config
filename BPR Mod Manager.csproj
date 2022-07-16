@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>BPR_Mod_Manager</RootNamespace>
+    <AssemblyName>BPR Mod Config</AssemblyName>
+    <ApplicationIcon>BPRConfigIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ConsoleTableExt" Version="3.2.0" />
+  </ItemGroup>
+
+</Project>

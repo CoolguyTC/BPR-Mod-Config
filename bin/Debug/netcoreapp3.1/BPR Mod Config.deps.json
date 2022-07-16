@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BPR Mod Config/1.0.0": {
+        "dependencies": {
+          "ConsoleTableExt": "3.2.0"
+        },
+        "runtime": {
+          "BPR Mod Config.dll": {}
+        }
+      },
+      "ConsoleTableExt/3.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/ConsoleTableExt.dll": {
+            "assemblyVersion": "3.1.9.0",
+            "fileVersion": "3.1.9.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BPR Mod Config/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleTableExt/3.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IhaHj6R2vSbb781aRXngan6nKRp8R5rnL2X5fL0uRW2wRiFyCIUh81T/QOih0//PjzoXMk2Uv4ayBAGDLH338A==",
+      "path": "consoletableext/3.2.0",
+      "hashPath": "consoletableext.3.2.0.nupkg.sha512"
+    }
+  }
+}

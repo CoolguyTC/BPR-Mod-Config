@@ -1,0 +1,16 @@
+C:\Users\Tom\source\repos\BPR Mod Manager\bin\Release\netcoreapp3.1\ConsoleTableExt.dll
+C:\Users\Tom\source\repos\BPR Mod Manager\obj\Release\netcoreapp3.1\BPR Mod Manager.csproj.AssemblyReference.cache
+C:\Users\Tom\source\repos\BPR Mod Manager\obj\Release\netcoreapp3.1\BPR Mod Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\source\repos\BPR Mod Manager\obj\Release\netcoreapp3.1\BPR Mod Manager.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\BPR Mod Manager\obj\Release\netcoreapp3.1\BPR Mod Manager.AssemblyInfo.cs
+C:\Users\Tom\source\repos\BPR Mod Manager\obj\Release\netcoreapp3.1\BPR Mod Manager.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\BPR Mod Manager\obj\Release\netcoreapp3.1\BPR Mod Manager.csproj.CopyComplete
+C:\Users\Tom\source\repos\BPR Mod Manager\obj\Release\netcoreapp3.1\BPR Mod Manager.genruntimeconfig.cache
+C:\Users\Tom\source\repos\BPR Mod Manager\bin\Release\netcoreapp3.1\BPR Mod Config.exe
+C:\Users\Tom\source\repos\BPR Mod Manager\bin\Release\netcoreapp3.1\BPR Mod Config.deps.json
+C:\Users\Tom\source\repos\BPR Mod Manager\bin\Release\netcoreapp3.1\BPR Mod Config.runtimeconfig.json
+C:\Users\Tom\source\repos\BPR Mod Manager\bin\Release\netcoreapp3.1\BPR Mod Config.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\BPR Mod Manager\bin\Release\netcoreapp3.1\BPR Mod Config.dll
+C:\Users\Tom\source\repos\BPR Mod Manager\bin\Release\netcoreapp3.1\BPR Mod Config.pdb
+C:\Users\Tom\source\repos\BPR Mod Manager\obj\Release\netcoreapp3.1\BPR Mod Config.dll
+C:\Users\Tom\source\repos\BPR Mod Manager\obj\Release\netcoreapp3.1\BPR Mod Config.pdb

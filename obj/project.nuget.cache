@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xdSwUCFf+DKDm2d+bEccV6geJREPwAluHCGO7a6+zdACkEXy7fhuPf1xAcyIzYxRlA5eJdQ5klqSRWULeGASmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tom\\source\\repos\\BPR Mod Manager\\BPR Mod Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tom\\.nuget\\packages\\consoletableext\\3.2.0\\consoletableext.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

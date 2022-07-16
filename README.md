@@ -28,7 +28,14 @@ Unzip the file found in the releases section into an empty folder. From there fo
 **[This WILL NOT effect any other folders in the game's directory]**
 
 ---
-**To-Do:**
+**Build Instructions**
+---
+For those who wish to build it themselves it should be as simple as downloading the source and running the "BPR Mod Manager.sln" file.
+From there you can view the source code. Next xxxxxx
+
+
+---
+**To-Do**
 ---
 - Create fast vehicle apply.
 - Comment.
@@ -37,6 +44,7 @@ Unzip the file found in the releases section into an empty folder. From there fo
 - Create map configurator.
 - Translate vehicle ID to name.
 - Make a GUI version with vehicle images :D
+- Make presets.
 
 ---
 **Questions and Answers**

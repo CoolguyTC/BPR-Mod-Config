@@ -3,6 +3,7 @@
 <br />A vehicle and (soon-to-be) map mod configurator for Burnout Paradise Remastered (PC)<br />
 -By CoolguyTC<br />
 
+As the number of vehicle and map mods increases I thought it would be a good idea to create a program to help manage them. This should prevent the need for a user to copy paste files to and from directories and help manage the mods that are currently enabled. In the future it should allow users to create mod presets, view conflicts (where two mods can't be used at once) and make map collision automatic (which should help especially when there are a lot of map mods enabled at once).
 <br />Github page: https://github.com/CoolguyTC/BPR-Mod-Config<br />
 
 <br />**DISCLAMER:**<br />

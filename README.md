@@ -4,7 +4,7 @@
 -By CoolguyTC<br />
 
 <br />**DISCLAMER:**<br />
-This program only currently supports vehicle mods that overwrite existing vehicles. There is currently no method within the program to add extra vehicles through modifying the "VEHICLELIST.BIN" file. However support may come in the future. As of right now the program will only overwrite files withing the game's VEHICLE folder so folders such as the mods folder etc will not be touched.
+This program only currently supports vehicle mods that overwrite existing vehicles. There is currently no method within the program to add extra vehicles through modifying the "VEHICLELIST.BIN" file. However support may come in the future. As of right now the program will only overwrite files within the game's VEHICLE folder, so folders such as the mods folder etc will not be touched.
 
 ---
 **Installation**<br />
@@ -18,7 +18,7 @@ Please ensure that before running the program you have these things set up:
 5. You have Noesis installed and the "Burnout Paradise Packer / Unpacker" plugin installed. (See installation info below)<br /><br />
 
 **Noesis:**<br />
-Noesis is required in order to interact with the game's files. There is a link to the website to download below.<br />
+Noesis will be required in future versions in order to interact with the game's files. There is a link to the website to download below.<br />
 DGIorio's Noesis plugins are also required. Their download link is in the **#modding-tools** channel in the Burnout Hints discord server (link at the bottom of the page).<br />
 Noesis: https://www.richwhitehouse.com/index.php?content=inc_projects.php&showproject=91<br /><br />
 
@@ -39,10 +39,11 @@ From there you can view the source code. Next publish it in the Self-contained d
 **To-Do**
 ---
 - Create fast vehicle apply.
+- Add support for additional vehicles.
 - Make sure error handling is complete.
 - Create map configurator.
 - Make a GUI version with vehicle images :D
-- Make presets.
+- Make a preset feature.
 - Highlight file conflicts.
 
 ---
@@ -79,8 +80,8 @@ And each individual car folder should look like this:
 >At some point. (hopefully)
 
 
-<br />Q) I still need help!
+<br />Q) I still need help! / I think I have found a bug! / I have a feature suggestion!
 
->For any further questions you can @ me on the Burnout Hints discord or DM me.<br />
+>For any further questions or queries you can @ me on the Burnout Hints discord or DM me.<br />
 Burnout Hints discord: https://discord.gg/dMyuRBq<br />
 My discord is 'ThomasMLGEngine#3576'

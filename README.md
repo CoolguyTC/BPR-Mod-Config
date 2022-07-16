@@ -14,7 +14,7 @@ This program is still very early in development and only currently supports vehi
 **Prerequisites:**<br />
 Please ensure that before running the program you have these things set up:
 1. A copy of Burnout Paradise Remastered (from origin or steam).
-2. You have made a complete backup of the game's files stored in a seperate folder. (This will be used to remove mods when neccessary)
+2. You have made a complete backup of the game's files stored in a seperate folder. (This will be used to remove mods when neccessary and must have the same file pathing as the main game)
 3. You have a folder set up for vehicle mods. (For formating see **"How do I setup the vehicle mod folder?"** below)
 4. You have a folder set up for map mods. (Formating doesn't exist yet. There will be more information when the feature is added.)
 5. You have Noesis installed and the "Burnout Paradise Packer / Unpacker" plugin installed. (See installation info below)<br /><br />

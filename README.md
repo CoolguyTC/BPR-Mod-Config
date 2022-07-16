@@ -24,7 +24,10 @@ Noesis: https://www.richwhitehouse.com/index.php?content=inc_projects.php&showpr
 
 **Completing the Setup:**<br />
 Unzip the file found in the releases section into an empty folder. From there follow the instructions on screen to complete the setup. Make sure to copy directories directly from file explorer in the format:<br />
-C:\FOLDER1\FOLDER2&nbsp;&nbsp;(and so on)<br />
+C:\FOLDER1\FOLDER2&nbsp;&nbsp;(and so on)<br /><br />
+
+**IT IS IMPORTANT TO** make sure no files or folders referenced contain semicolons or hashtags.<br /><br />
+
 (When asked to reset your files it is highly recommended that you do. Otherwise the program will have no way to tell what mods you currently have installed)<br />
 **[This WILL NOT effect any other folders in the game's directory]**
 

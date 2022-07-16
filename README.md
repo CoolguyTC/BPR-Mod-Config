@@ -10,6 +10,7 @@ To-Do:
 - Make sure error handling is complete.
 - Make it even more presentable.
 - Create map configurator.
+- Translate vehicle ID to name.
 
 
 **Questions and Answers:**

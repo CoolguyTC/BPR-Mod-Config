@@ -32,18 +32,15 @@ C:\FOLDER1\FOLDER2&nbsp;&nbsp;(and so on)<br />
 **Build Instructions**
 ---
 For those who wish to build it themselves it should be as simple as downloading the source and running the "BPR Mod Manager.sln" file.
-From there you can view the source code. Next xxxxxx
+From there you can view the source code. Next publish it in the Self-contained deployment mode with "Produce single file" checked. Then put that exe alongside the extracted "DependancyFiles.zip" so that the DATA file is in the same directory as the exe.
 
 
 ---
 **To-Do**
 ---
 - Create fast vehicle apply.
-- Comment.
 - Make sure error handling is complete.
-- Make it even more presentable.
 - Create map configurator.
-- Translate vehicle ID to name.
 - Make a GUI version with vehicle images :D
 - Make presets.
 - Highlight file conflicts.
@@ -77,7 +74,7 @@ And each individual car folder should look like this:
 >Yes, but I want to get it complete first before I move it to a GUI based system.
 
 
-<br />Q) When is support for map mods coming?
+<br />Q) When is support for presets and map mods coming?
 
 >At some point. (hopefully)
 

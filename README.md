@@ -25,7 +25,7 @@ DGIorio's Noesis plugins are also required. Their download link is in the **#mod
 Noesis: https://www.richwhitehouse.com/index.php?content=inc_projects.php&showproject=91<br /><br />
 
 **Completing the Setup:**<br />
-Unzip the file found in the releases section into an empty folder. From there follow the instructions on screen to complete the setup. Make sure to copy directories directly from file explorer in the format:<br />
+Unzip the file found in the releases section (BPR.Mod.Config.v0.1.zip) into an empty folder. From there follow the instructions on screen to complete the setup. Make sure to copy directories directly from file explorer in the format:<br />
 C:\FOLDER1\FOLDER2&nbsp;&nbsp;(and so on)<br /><br />
 
 **IT IS IMPORTANT TO** make sure no files or folders referenced contain semicolons or hashtags.<br /><br />

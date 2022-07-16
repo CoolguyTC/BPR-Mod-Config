@@ -45,6 +45,7 @@ From there you can view the source code. Next xxxxxx
 - Translate vehicle ID to name.
 - Make a GUI version with vehicle images :D
 - Make presets.
+- Highlight file conflicts.
 
 ---
 **Questions and Answers**

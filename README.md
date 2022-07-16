@@ -42,8 +42,8 @@ From there you can view the source code. Next publish it in the Self-contained d
 **To-Do**
 ---
 - Create fast vehicle apply.
-- Add support for additional vehicles.
-- Make sure error handling is complete.
+- Add more error handling for when directories are not found etc.
+- Add support for vehicles that alter the vehicle list.
 - Create map configurator.
 - Make a GUI version with vehicle images :D
 - Make a preset feature.

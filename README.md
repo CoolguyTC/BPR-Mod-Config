@@ -4,7 +4,7 @@
 -By CoolguyTC<br />
 
 <br />**DISCLAMER:**<br />
-This program is still very early in development only currently supports vehicle mods that overwrite existing vehicles. There is currently no method within the program to add extra vehicles through modifying the "VEHICLELIST.BIN" file. However support may come in the future. As of right now the program will only overwrite files within the game's VEHICLE folder, so folders such as the mods folder etc will not be touched.
+This program is still very early in development and only currently supports vehicle mods that overwrite existing vehicles. There is currently no method within the program to add extra vehicles through modifying the "VEHICLELIST.BIN" file. However support may come in the future. As of right now the program will only overwrite files within the game's VEHICLE folder, so folders such as the mods folder etc will not be touched.
 
 ---
 **Installation**<br />

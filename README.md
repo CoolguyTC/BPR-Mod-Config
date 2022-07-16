@@ -13,12 +13,13 @@ This program only currently supports vehicle mods that overwrite existing vehicl
 Please ensure that before running the program you have these things set up:
 1. A copy of Burnout Paradise Remastered (from origin or steam).
 2. You have made a complete backup of the game's files stored in a seperate folder. (This will be used to remove mods when neccessary)
-3. You have a folder set up for vehicle mods. (For formating see "How do I setup the vehicle mod folder?" below)
+3. You have a folder set up for vehicle mods. (For formating see **"How do I setup the vehicle mod folder?"** below)
 4. You have a folder set up for map mods. (Formating doesn't exist yet. There will be more information when the feature is added.)
 5. You have Noesis installed and the "Burnout Paradise Packer / Unpacker" plugin installed. (See installation info below)<br /><br />
 
 **Noesis:**<br />
-Noesis is required in order to interact with the game's files. There is a link to the website to download below. DGIorio's Noesis plugins are also required. Their download link is in the #modding-tools channel in the Burnout Hints discord server (link at the bottom of the page).<br />
+Noesis is required in order to interact with the game's files. There is a link to the website to download below.<br />
+DGIorio's Noesis plugins are also required. Their download link is in the **#modding-tools** channel in the Burnout Hints discord server (link at the bottom of the page).<br />
 Noesis: https://www.richwhitehouse.com/index.php?content=inc_projects.php&showproject=91<br /><br />
 
 **Completing the Setup:**<br />
@@ -35,6 +36,7 @@ Unzip the file found in the releases section into an empty folder. From there fo
 - Make it even more presentable.
 - Create map configurator.
 - Translate vehicle ID to name.
+- Make a GUI version with vehicle images :D
 
 ---
 **Questions and Answers**

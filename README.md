@@ -25,7 +25,7 @@ Python 3.4 is required to interact with DGIorio's "Burnout Paradise Packer/Unpac
 Python 3.4: https://www.python.org/downloads/release/python-340/<br /><br />
 
 **Completing the Setup:**<br />
-Unzip the file found in the releases section (BPR.Mod.Config.v0.1.zip) into an empty folder. From there follow the instructions on screen to complete the setup.<br / <br />
+Unzip the file found in the releases section (BPR.Mod.Config.v0.1.zip) into an empty folder. From there follow the instructions on screen to complete the setup.<br />
 
 (When asked to reset your vehicle and map files to vanilla it is highly recommended that you do. Otherwise the program will have no way to tell what mods you currently have installed)<br />
 
